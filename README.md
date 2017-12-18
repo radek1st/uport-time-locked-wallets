@@ -78,7 +78,9 @@ Finally, you can run the DApp:
 ```
 npm run dev
 ```
-which will launch a browser tab on `http://localhost:3000/`
+which will launch a browser tab on `http://localhost:3000/`. 
+
+Install the [uPort](https://www.uport.me/) app on your smartphone and give it a go.
 
 ## Issues
 
