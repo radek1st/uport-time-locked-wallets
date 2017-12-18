@@ -48,8 +48,9 @@ The demo is recorded and uploaded here: https://youtu.be/q4sUnL3KhOU.
 There are three contracts of essence to this demo:
 `TimeLockedWallet.sol`, `TimeLockedWalletFactory.sol` and `TopCoderToken.sol`.
 
-`TimeLockedWalletFactory` is deployed to Rinkeby test network on `0x6b2315851d97477ddd9c0921ad9ee17d70737e77` and
-`TopCoderToken` on `0x3b03d5853a6478ca46a2326f7bcb2e86927185ea`. A new `TimeLockedWallet` contract is deployed automatically by
+`TimeLockedWalletFactory` is deployed to Rinkeby test network here:
+https://rinkeby.etherscan.io/address/0x6b2315851d97477ddd9c0921ad9ee17d70737e77#code and `TopCoderToken` here: https://rinkeby.etherscan.io/address/0x3b03d5853a6478ca46a2326f7bcb2e86927185ea#code. 
+A new `TimeLockedWallet` contract is deployed automatically by
 calling `newTimeLockedWallet` on the `TimeLockedWalletFactory`.
 
 ## Running Locally
