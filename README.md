@@ -1,5 +1,7 @@
 # Time Locked Wallet - TopCoder/ConsenSys Hackathon
 
+https://github.com/radek1st/uport-time-locked-wallets
+
 ## Time Locked Wallets - Use Cases
 
 There are many different applications of the Ethereum smart contracts, 
@@ -81,5 +83,5 @@ which will launch a browser tab on `http://localhost:3000/`
 
 I've discovered the following issues:
 
-* When sending Ether using payable methods on uPort wrapped contract object, invalid value is sent. I filed a bug report [here](https://github.com/uport-project/uport-connect/issues/90)
-* Rinkeby Etherscan is not reflecting correctly TimeLockedWallet contracts, probably because there were deployed from within the factory contract. Neither it is showing correctly all Ether transactions.
+* When sending Ether using payable methods on uPort wrapped contract object, invalid value is sent. I filed a bug report here: https://github.com/uport-project/uport-connect/issues/90
+* Rinkeby Etherscan is not reflecting correctly TimeLockedWallet contracts, probably because they were deployed from within the factory contract. Neither it is showing correctly all Ether transactions.
