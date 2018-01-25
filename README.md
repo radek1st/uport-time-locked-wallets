@@ -1,6 +1,6 @@
 # Time Locked Wallet - TopCoder/ConsenSys Hackathon
 
-https://github.com/radek1st/uport-time-locked-wallets
+Update: this projet won a prize in ConsenSys/Topcoder - uPort Blockchain and Identity Hackathon: https://www.topcoder.com/challenges/30060883?tab=details
 
 ## Time Locked Wallets - Use Cases
 
